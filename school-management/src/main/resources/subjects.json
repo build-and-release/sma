@@ -1,0 +1,272 @@
+[
+  {
+    "id": 1,
+    "title": "Counting and Numbers",
+    "subjectCode": "CNT-NUM",
+    "level": "PREKINDERGARTEN"
+  },
+  {
+    "id": 2,
+    "title": "Phonics",
+    "subjectCode": "PHN",
+    "level": "PREKINDERGARTEN"
+  },
+  {
+    "id": 3,
+    "title": "Drawing and Coloring",
+    "subjectCode": "DRW-COL",
+    "level": "PREKINDERGARTEN"
+  },
+  {
+    "id": 4,
+    "title": "Basic Hygiene",
+    "subjectCode": "BHY",
+    "level": "PREKINDERGARTEN"
+  },
+  {
+    "id": 5,
+    "title": "Play and Social Interaction",
+    "subjectCode": "PSI",
+    "level": "PREKINDERGARTEN"
+  },
+  {
+    "id": 6,
+    "title": "Basic Literacy",
+    "subjectCode": "BLT",
+    "level": "KINDERGARTEN"
+  },
+  {
+    "id": 7,
+    "title": "Creative Arts",
+    "subjectCode": "CRA",
+    "level": "KINDERGARTEN"
+  },
+  {
+    "id": 8,
+    "title": "Storytelling",
+    "subjectCode": "STRY",
+    "level": "KINDERGARTEN"
+  },
+  {
+    "id": 9,
+    "title": "Health Habits",
+    "subjectCode": "HLTH",
+    "level": "KINDERGARTEN"
+  },
+  {
+    "id": 10,
+    "title": "Mathematics",
+    "subjectCode": "MTH",
+    "level": "PRIMARY"
+  },
+  {
+    "id": 11,
+    "title": "English Language",
+    "subjectCode": "ENG",
+    "level": "PRIMARY"
+  },
+  {
+    "id": 12,
+    "title": "Basic Science",
+    "subjectCode": "BSC",
+    "level": "PRIMARY"
+  },
+  {
+    "id": 13,
+    "title": "Social Studies",
+    "subjectCode": "SOC",
+    "level": "PRIMARY"
+  },
+  {
+    "id": 14,
+    "title": "Agricultural Science",
+    "subjectCode": "AGR",
+    "level": "PRIMARY"
+  },
+  {
+    "id": 15,
+    "title": "Physical and Health Education",
+    "subjectCode": "PHE",
+    "level": "PRIMARY"
+  },
+  {
+    "id": 16,
+    "title": "Yoruba",
+    "subjectCode": "YOR",
+    "level": "PRIMARY"
+  },
+  {
+    "id": 17,
+    "title": "Hausa",
+    "subjectCode": "HAU",
+    "level": "PRIMARY"
+  },
+  {
+    "id": 18,
+    "title": "Igbo",
+    "subjectCode": "IGB",
+    "level": "PRIMARY"
+  },
+  {
+    "id": 19,
+    "title": "Christian Religious Studies",
+    "subjectCode": "CRS",
+    "level": "PRIMARY"
+  },
+  {
+    "id": 20,
+    "title": "Islamic Religious Studies",
+    "subjectCode": "IRS",
+    "level": "PRIMARY"
+  },
+  {
+    "id": 21,
+    "title": "Mathematics",
+    "subjectCode": "MTH",
+    "level": "SECONDARY"
+  },
+  {
+    "id": 22,
+    "title": "English Language",
+    "subjectCode": "ENG",
+    "level": "SECONDARY"
+  },
+  {
+    "id": 23,
+    "title": "Basic Technology",
+    "subjectCode": "BT",
+    "level": "SECONDARY"
+  },
+  {
+    "id": 24,
+    "title": "Biology",
+    "subjectCode": "BIO",
+    "level": "SECONDARY"
+  },
+  {
+    "id": 25,
+    "title": "Chemistry",
+    "subjectCode": "CHE",
+    "level": "SECONDARY"
+  },
+  {
+    "id": 25,
+    "title": "Physics",
+    "subjectCode": "PHY",
+    "level": "SECONDARY"
+  },
+  {
+    "id": 26,
+    "title": "Geography",
+    "subjectCode": "GEO",
+    "level": "SECONDARY"
+  },
+  {
+    "id": 27,
+    "title": "Economics",
+    "subjectCode": "ECO",
+    "level": "SECONDARY"
+  },
+  {
+    "id": 28,
+    "title": "Literature in English",
+    "subjectCode": "LIT",
+    "level": "SECONDARY"
+  },
+  {
+    "id": 29,
+    "title": "Government",
+    "subjectCode": "GOV",
+    "level": "SECONDARY"
+  },
+  {
+    "id": 30,
+    "title": "Christian Religious Studies",
+    "subjectCode": "CRS",
+    "level": "SECONDARY"
+  },
+  {
+    "id": 31,
+    "title": "Islamic Religious Studies",
+    "subjectCode": "IRS",
+    "level": "SECONDARY"
+  },
+  {
+    "id": 32,
+    "title": "Financial Accounting",
+    "subjectCode": "ACC",
+    "level": "SECONDARY"
+  },
+  {
+    "id": 33,
+    "title": "Commerce",
+    "subjectCode": "COM",
+    "level": "SECONDARY"
+  },
+  {
+    "id": 34,
+    "title": "Further Mathematics",
+    "subjectCode": "FMTH",
+    "level": "SECONDARY"
+  },
+  {
+    "id": 35,
+    "title": "Technical Drawing",
+    "subjectCode": "TD",
+    "level": "SECONDARY"
+  },
+  {
+    "id": 36,
+    "title": "Yoruba",
+    "subjectCode": "YOR",
+    "level": "SECONDARY"
+  },
+  {
+    "id": 37,
+    "title": "Hausa",
+    "subjectCode": "HAU",
+    "level": "SECONDARY"
+  },
+  {
+    "id": 38,
+    "title": "Igbo",
+    "subjectCode": "IGB",
+    "level": "SECONDARY"
+  },
+  {
+    "id": 39,
+    "title": "Basic Science",
+    "subjectCode": "BSC",
+    "level": "SECONDARY"
+  },
+  {
+    "id": 40,
+    "title": "Social Studies",
+    "subjectCode": "SOC",
+    "level": "SECONDARY"
+  },
+  {
+    "id": 41,
+    "title": "Agricultural Science",
+    "subjectCode": "AGR",
+    "level": "SECONDARY"
+  },
+  {
+    "id": 42,
+    "title": "Physical and Health Education",
+    "subjectCode": "PHE",
+    "level": "SECONDARY"
+  },
+  {
+    "id": 43,
+    "title": "History",
+    "subjectCode": "HIS",
+    "level": "SECONDARY"
+  },
+  {
+    "id": 44,
+    "title": "Chemistry",
+    "subjectCode": "CHM",
+    "level": "SECONDARY"
+  }
+]

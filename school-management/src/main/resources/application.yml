@@ -1,0 +1,46 @@
+spring:
+  application:
+    name: sqlite
+  datasource:
+    url: jdbc:sqlite:school-management.db
+    driver-class-name: org.sqlite.JDBC
+  jpa:
+    show-sql: false
+    database-platform: org.hibernate.community.dialect.SQLiteDialect
+    hibernate:
+      ddl-auto: update
+
+# Logging configuration
+  logging:
+    level:
+      com:
+        technovate: INFO
+      org:
+        springframework:
+          web: WARN
+    file:
+      name: smgt_log
+      max-size: 10mb
+      max-history: 10
+    pattern:
+      console: '%d{yyyy-MM-dd HH:mm:ss} - %logger{36} - %msg%n'
+  #  Turn off spring banner
+main:
+  banner-mode: off
+
+# Set Configurations for jwt
+application_config:
+  jwt_config:
+    key: D1F3A4E6C9B2F8A7C0E5D4F1A2B7C6E4F8D3A6B1C2E7F5D4C3B2A1E8F9D6C7
+
+  default_password: 123456
+  max_password_tries: 5
+  email_credentials:
+    api_key: cbaa79241c47e32a8f6efe3268852e11
+    secret_key: f1057b5263d7073953b41755c805554d
+    from_email: uzor1997@gmail.com
+  springdoc:
+    api-docs:
+      path: /v3/api-docs
+    swagger-ui:
+      path: /swagger-ui/index.html

@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "name": "CRECHE",
+    "level": "PREKINDERGARTEN",
+    "nextClassId": 2
+  },
+  {
+    "id": 2,
+    "name": "KG1",
+    "level": "KINDERGARTEN",
+    "nextClassId": 3
+  },
+  {
+    "id": 3,
+    "name": "KG2",
+    "level": "KINDERGARTEN",
+    "nextClassId": 4
+  },
+  {
+    "id": 4,
+    "name": "KG3",
+    "level": "KINDERGARTEN",
+    "nextClassId": 5
+  },
+  {
+    "id": 5,
+    "name": "PRIMARY1",
+    "level": "PRIMARY",
+    "nextClassId": 6
+  },
+  {
+    "id": 6,
+    "name": "PRIMARY2",
+    "level": "PRIMARY",
+    "nextClassId": 7
+  },
+  {
+    "id": 7,
+    "name": "PRIMARY3",
+    "level": "PRIMARY",
+    "nextClassId": 8
+  },
+  {
+    "id": 8,
+    "name": "PRIMARY4",
+    "level": "PRIMARY",
+    "nextClassId": 9
+  },
+  {
+    "id": 9,
+    "name": "PRIMARY5",
+    "level": "PRIMARY",
+    "nextClassId": 10
+  },
+  {
+    "id": 10,
+    "name": "PRIMARY6",
+    "level": "PRIMARY",
+    "nextClassId": 11
+  },
+  {
+    "id": 11,
+    "name": "JSS1",
+    "level": "SECONDARY",
+    "nextClassId": 12
+  },
+  {
+    "id": 12,
+    "name": "JSS2",
+    "level": "SECONDARY",
+    "nextClassId": 13
+  },
+  {
+    "id": 13,
+    "name": "JSS3",
+    "level": "SECONDARY",
+    "nextClassId": 14
+  },
+  {
+    "id": 14,
+    "name": "SS1",
+    "level": "SECONDARY",
+    "nextClassId": 15
+  },
+  {
+    "id": 15,
+    "name": "SS2_ASC",
+    "level": "SECONDARY",
+    "nextClassId": 17
+  },
+  {
+    "id": 16,
+    "name": "SS2_SCI",
+    "level": "SECONDARY",
+    "nextClassId": 18
+  },
+  {
+    "id": 17,
+    "name": "SS3_ASC",
+    "level": "SECONDARY",
+    "nextClassId": null
+  },
+  {
+    "id": 18,
+    "name": "SS3_SCI",
+    "level": "SECONDARY",
+    "nextClassId": null
+  }
+]

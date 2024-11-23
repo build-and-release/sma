@@ -1,0 +1,97 @@
+[
+  {
+    "classId": 1,
+    "subjectIds": [1, 2, 3, 4, 5],
+    "subjectCodeSuffix": "000"
+  },
+  {
+    "classId": 2,
+    "subjectIds": [6, 7, 8, 9],
+    "subjectCodeSuffix": "101"
+  },
+  {
+    "classId": 3,
+    "subjectIds": [6, 7, 8, 9],
+    "subjectCodeSuffix": "102"
+  },
+  {
+    "classId": 4,
+    "subjectIds": [6, 7, 8, 9],
+    "subjectCodeSuffix": "103"
+  },
+  {
+    "classId": 5,
+    "subjectIds": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+    "subjectCodeSuffix": "104"
+  },
+  {
+    "classId": 6,
+    "subjectIds": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+    "subjectCodeSuffix": "105"
+  },
+  {
+    "classId": 7,
+    "subjectIds": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+    "subjectCodeSuffix": "106"
+  },
+  {
+    "classId": 8,
+    "subjectIds": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+    "subjectCodeSuffix": "107"
+  },
+  {
+    "classId": 9,
+    "subjectIds": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+    "subjectCodeSuffix": "108"
+  },
+  {
+    "classId": 10,
+    "subjectIds": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+    "subjectCodeSuffix": "109"
+  },
+  {
+    "classId": 11,
+    "subjectIds": [21, 22, 23, 28, 30, 31, 36, 37, 38, 39, 40, 41, 42],
+    "subjectCodeSuffix": "201"
+  },
+  {
+    "classId": 11,
+    "subjectIds": [21, 22, 23, 28, 30, 31, 36, 37, 38, 39, 40, 41, 42],
+    "subjectCodeSuffix": "202"
+  },
+  {
+    "classId": 12,
+    "subjectIds": [21, 22, 23, 28, 30, 31, 36, 37, 38, 39, 40, 41, 42],
+    "subjectCodeSuffix": "203"
+  },
+  {
+    "classId": 13,
+    "subjectIds": [21, 22, 23, 28, 30, 31, 36, 37, 38, 39, 40, 41, 42],
+    "subjectCodeSuffix": "203"
+  },
+  {
+    "classId": 14,
+    "subjectIds": [21, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 41, 42, 43],
+    "subjectCodeSuffix": "204"
+  },
+  {
+    "classId": 15,
+    "subjectIds": [21, 22, 27, 28, 29, 30, 31, 32, 33, 34, 36, 37, 38, 41, 42, 43],
+    "subjectCodeSuffix": "205"
+  },
+  {
+    "classId": 16,
+    "subjectIds": [21, 22, 25, 26, 27, 30, 31, 34, 35, 36, 37, 38, 41, 42, 44],
+    "subjectCodeSuffix": "206"
+  },
+  {
+    "classId": 17,
+    "subjectIds": [21, 22, 27, 28, 29, 30, 31, 32, 33, 34, 36, 37, 38, 41, 42, 43],
+    "subjectCodeSuffix": "207"
+  },
+  {
+    "classId": 18,
+    "subjectIds": [21, 22, 25, 26, 27, 30, 31, 34, 35, 36, 37, 38, 41, 42, 44],
+    "subjectCodeSuffix": "209"
+  }
+]
